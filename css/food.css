@@ -260,9 +260,9 @@
 
 #rating img#people{
     position: absolute;
-    height: 60px;
-    left: 110px;
-    top: 1470px;
+    height: 50px;
+    left: 130px;
+    top: 1475px;
 }
 
 #rating h4 span{
@@ -314,8 +314,8 @@
 #rating img#arrow{
     position: relative;
     height: 9.62px;
-    left: 151.56px;
-    top: 1509.19px;
+    left: 280.56px;
+    top: 1548.19px;
 }
 
 
@@ -408,8 +408,9 @@
 #rating img#arrowtwo{
     position: relative;
     height: 9.62px;
-    left: 581.56px;
-    top: 1509.19px;
+    left: 781.56px;
+    top: 1548.19px;
+
 }
 
 
@@ -975,7 +976,7 @@
     position: relative;
     height: 9.62px;
     left: 320.56px;
-    top: 4620.19px;
+    top: 4658.19px;
 }
 
 
@@ -1032,7 +1033,7 @@
     position: relative;
     height: 9.62px;
     left: 820.56px;
-    top: 4620.19px;
+    top: 4658.19px;
 }
 
 
@@ -1089,7 +1090,7 @@
     position: relative;
     height: 9.62px;
     left: 1280.56px;
-    top: 4620.19px;
+    top: 4658.19px;
 }
 
 #end img#base{
